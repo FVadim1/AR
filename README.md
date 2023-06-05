@@ -1,2 +1,2 @@
-# AR
- 4º. Optativa Computadores. 
+## Automatización y Robótica
+![Screenshot](tia.jpg)
